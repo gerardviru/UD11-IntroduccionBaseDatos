@@ -1,3 +1,3 @@
 # UD11-IntroduccionBaseDatos
 
-![image](https://images.app.goo.gl/KY3HJrKjdtUwkJYF7)
+![image](https://www.arsys.es/blog/file/uploads/2019/01/diciembre-2018-mysql.jpg)
